@@ -7,5 +7,6 @@ import Greeting from './components/Greeting.tsx'
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     <Greeting />
+    <App />
   </React.StrictMode>
 )
